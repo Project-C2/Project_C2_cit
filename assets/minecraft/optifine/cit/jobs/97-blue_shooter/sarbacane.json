@@ -1,0 +1,7 @@
+{
+    "parent": "optifine/cit/basemodel/2xgen",
+    "textures": {
+        "layer0": "optifine/cit/jobs/97-blue_shooter/sarbacane",
+        "layer1": "optifine/cit/jobs/97-blue_shooter/blank"
+    }
+}
