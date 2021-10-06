@@ -1,0 +1,70 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "optifine/cit/jobs/80-machine_solder/sniper_standby"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"pulling": 1
+			},
+			"model": "item/crossbow_pulling_0"
+		},
+		{
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58
+			},
+			"model": "item/crossbow_pulling_1"
+		},
+		{
+			"predicate": {
+				"pulling": 1,
+				"pull": 1
+			},
+			"model": "item/crossbow_pulling_2"
+		},
+		{
+			"predicate": {
+				"charged": 1
+			},
+			"model": "item/crossbow_arrow"
+		},
+		{
+			"predicate": {
+				"charged": 1,
+				"firework": 1
+			},
+			"model": "item/crossbow_firework"
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, -78.25, -60],
+			"translation": [0, 1.35, 5.75],
+			"scale": [1.7, 1.7, 0.9]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-35.75, 92.75, 0],
+			"translation": [0, 2.35, 5.75],
+			"scale": [1.7, 1.7, 0.9]
+		},
+		"firstperson_righthand": {
+			"rotation": [-90, -93.25, -55],
+			"translation": [-1.87, 5.95, 3.88],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [19.25, 87.25, -55],
+			"translation": [1.87, 5.95, 4.13],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"ground": {
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"scale": [2, 2, 1]
+		}
+	}
+}

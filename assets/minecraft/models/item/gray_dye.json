@@ -1,0 +1,29 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/gray_dye"
+    },
+    "overrides": [
+		{"predicate": {"custom_model_data": 1},"model": "item/head/paimon"},
+		{"predicate": {"custom_model_data": 2},"model": "item/head/mugiwara"},
+		{"predicate": {"custom_model_data": 3},"model": "item/head/megmin_hat"},
+		{"predicate": {"custom_model_data": 4},"model": "item/head"},
+		{"predicate": {"custom_model_data": 5},"model": "item/head"},
+		{"predicate": {"custom_model_data": 6},"model": "item/head"},
+		{"predicate": {"custom_model_data": 7},"model": "item/head"},
+		{"predicate": {"custom_model_data": 8},"model": "item/skill_paper/weapons/"},
+		{"predicate": {"custom_model_data": 9},"model": "item/skill_paper/weapons/"},
+		{"predicate": {"custom_model_data": 10},"model": "item/skill_paper/weapons/"},
+		{"predicate": {"custom_model_data": 11},"model": "item/skill_paper/weapons/"},
+		{"predicate": {"custom_model_data": 12},"model": "item/skill_paper/weapons/"},
+		{"predicate": {"custom_model_data": 13},"model": "item/skill_paper/weapons/"},
+		{"predicate": {"custom_model_data": 14},"model": "item/skill_paper/weapons/"},
+		{"predicate": {"custom_model_data": 15},"model": "item/skill_paper/weapons/"},
+		{"predicate": {"custom_model_data": 16},"model": "item/skill_paper/weapons/"},
+		{"predicate": {"custom_model_data": 17},"model": "item/skill_paper/weapons//"},
+		{"predicate": {"custom_model_data": 18},"model": "item/skill_paper/weapons/"},
+		{"predicate": {"custom_model_data": 19},"model": "item/skill_paper/weapons/"},
+		{"predicate": {"custom_model_data": 20},"model": "item/skill_paper/weapons/"},
+		{"predicate": {"custom_model_data": 300},"model": "item/wand/---"}
+	]
+}
