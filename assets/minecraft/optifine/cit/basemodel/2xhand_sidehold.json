@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "./jobs/77-miner/ne/dig"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-53.25, 90, 55],
+			"translation": [0, -1.25, -2.5],
+			"scale": [1.5, 1.5, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-123.25, -90, -123],
+			"translation": [0, -1.25, -2.5],
+			"scale": [1.5, 1.5, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [-17.75, 80, 25],
+			"translation": [1.13, 2.7, 1.63],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-17.75, -80, -25],
+			"translation": [1.13, 2.7, 1.63],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"ground": {
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"scale": [2, 2, 1]
+		},
+		"fixed": {
+			"scale": [2, 2, 1]
+		}
+	}
+}
