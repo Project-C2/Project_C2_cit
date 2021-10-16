@@ -1,0 +1,30 @@
+{
+    "c2_bgm1": {
+      "sounds": [
+        {
+          "name": "bgm/c2_bgm1"
+        }
+      ]
+    },
+    "c2_bgm2": {
+      "sounds": [
+        {
+          "name": "bgm/c2_bgm2"
+        }
+      ]
+    },
+    "c2_bgm3": {
+      "sounds": [
+        {
+          "name": "bgm/knights_of_nights"
+        }
+      ]
+    },
+    "c2_bgm4": {
+      "sounds": [
+        {
+          "name": "bgm/saisyuu_flandol"
+        }
+      ]
+    }
+  }
