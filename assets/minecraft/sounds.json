@@ -16,14 +16,14 @@
     "c2_bgm3": {
       "sounds": [
         {
-          "name": "bgm/knights_of_nights"
+          "name": "bgm/c2_bgm3"
         }
       ]
     },
     "c2_bgm4": {
       "sounds": [
         {
-          "name": "bgm/saisyuu_flandol"
+          "name": "bgm/c2_bgm3"
         }
       ]
     }
