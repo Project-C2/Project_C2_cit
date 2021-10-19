@@ -1,0 +1,7 @@
+{
+    "parent": "optifine/cit/basemodel/skill_gen",
+    "textures": {
+        "layer0": "optifine/cit/basemodel/blank",
+        "layer1": "optifine/cit/jobs/124-venti/skill_3"
+    }
+}
