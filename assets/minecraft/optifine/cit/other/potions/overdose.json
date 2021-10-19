@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "optifine/cit/basemodel/blank",
+        "layer1": "optifine/cit/other/potions/overdose"
+    }
+}
