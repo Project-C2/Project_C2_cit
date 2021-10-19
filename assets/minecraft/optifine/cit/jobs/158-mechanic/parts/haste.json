@@ -1,0 +1,7 @@
+{
+    "parent": "optifine/cit/basemodel/skill_gen1.5x",
+    "textures": {
+        "layer0": "optifine/cit/basemodel/blank",
+        "layer1": "optifine/cit/jobs/158-mechanic/parts/haste"
+    }
+}

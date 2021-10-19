@@ -23,7 +23,14 @@
     "c2_bgm4": {
       "sounds": [
         {
-          "name": "bgm/c2_bgm3"
+          "name": "bgm/c2_bgm4"
+        }
+      ]
+    },
+    "c2_bgm5": {
+      "sounds": [
+        {
+          "name": "bgm/c2_bgm5"
         }
       ]
     }
