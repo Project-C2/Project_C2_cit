@@ -1,0 +1,7 @@
+{
+    "parent": "optifine/cit/basemodel/2xhand_mid",
+    "textures": {
+        "layer0": "optifine/cit/jobs/97-blue_shooter/blank",
+        "layer1": "optifine/cit/jobs/97-blue_shooter/troisieme"
+    }
+}
