@@ -6,6 +6,9 @@
 	},
 	"elements": [
 		{
+			"from": [-8, 0, 7],
+			"to": [24, 32, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 16, 8]},
 			"from": [0, 0, 7],
 			"to": [16, 16, 9],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.5, 8]},
@@ -49,6 +52,8 @@
 			"scale": [0.625, 0.625, 0.625]
 		},
 		"fixed": {
+			"translation": [0, -23.75, -0.5],
+			"scale": [3, 3, 1]
 			"translation": [0, 0, -0.5],
 			"scale": [4, 4, 0.5]
 		}
