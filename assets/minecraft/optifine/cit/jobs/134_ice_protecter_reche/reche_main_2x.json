@@ -1,0 +1,40 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "./reche_main"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 55],
+			"translation": [0, 1.5, -5],
+			"scale": [1.7, 1.7, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -55],
+			"translation": [0, 1.5, -5],
+			"scale": [1.7, 1.7, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [-35, -90, 0],
+			"translation": [1.13, 4.45, -1.37],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-35, 90, 0],
+			"translation": [1.13, 4.45, -1.37],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"ground": {
+			"translation": [0, 5, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"scale": [2, 2, 1]
+		},
+		"fixed": {
+			"translation": [0, 0, -1],
+			"scale": [2, 2, 1]
+		}
+	}
+}
