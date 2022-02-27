@@ -33,5 +33,33 @@
           "name": "bgm/c2_bgm5"
         }
       ]
+    },
+    "c2_grandbattle": {
+      "sounds": [
+        {
+          "name": "bgm/grandbattle"
+        }
+      ]
+    },
+        "c2_bloodytear": {
+      "sounds": [
+        {
+          "name": "bgm/bloodytear"
+        }
+      ]
+    },
+            "c2_tenma": {
+      "sounds": [
+        {
+          "name": "bgm/tenma"
+        }
+      ]
+    },
+                "c2_phyco": {
+      "sounds": [
+        {
+          "name": "bgm/phyco"
+        }
+      ]
     }
   }
