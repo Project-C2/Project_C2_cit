@@ -1,0 +1,39 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "./red_nine"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 55],
+			"translation": [0, 3, 0.5],
+			"scale": [1, 1, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -55],
+			"translation": [0, 3, 0.5],
+			"scale": [1, 1, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [-45, -90, 0],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [1.2, 1.2, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-45, 90, 0],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [1.2, 1.2, 0.68]
+		},
+		"ground": {
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"translation": [5, -1.5, 0],
+			"scale": [1.5, 1.5, 1]
+		},
+		"fixed": {
+			"scale": [2, 2, 1]
+		}
+	}
+}
