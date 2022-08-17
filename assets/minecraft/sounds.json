@@ -61,5 +61,12 @@
           "name": "bgm/phyco"
         }
       ]
+    },
+    "c2_yokai": {
+      "sounds":[
+        {
+          "name": "bgm/yokai"
+        }
+      ]
     }
   }
