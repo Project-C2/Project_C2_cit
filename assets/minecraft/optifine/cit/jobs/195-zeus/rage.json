@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "./infinity_rage"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-158.55, -67.61, -87.38],
+			"translation": [1.5, 2.75, -1.5],
+			"scale": [2, 2, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [86.48, 79.64, -122.09],
+			"translation": [1.25, 6.25, 2],
+			"scale": [2, 2, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [1.36, 1.36, 0.68]
+		},
+		"ground": {
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"scale": [2, 2, 1]
+		},
+		"fixed": {
+			"scale": [2, 2, 1]
+		}
+	}
+}
