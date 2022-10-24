@@ -68,5 +68,12 @@
           "name": "bgm/yokai"
         }
       ]
+    },
+    "c2_badapple": {
+      "sounds":[
+        {
+          "name": "bgm/badapple"
+        }
+      ]
     }
   }
