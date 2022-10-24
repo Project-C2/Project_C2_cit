@@ -75,5 +75,12 @@
           "name": "bgm/badapple"
         }
       ]
+    },
+    "c2_deathbyglamour": {
+      "sounds":[
+        {
+          "name": "bgm/deathbyglamour"
+        }
+      ]
     }
   }
