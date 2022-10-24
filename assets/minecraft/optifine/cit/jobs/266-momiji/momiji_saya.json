@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "./momiji_saya"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [74.73, 0, -0.79],
+			"translation": [-6.75, -7.25, 5.75],
+			"scale": [2, 2, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [74.73, 0, -0.79],
+			"translation": [-6.75, -7.25, 5.75],
+			"scale": [2, 2, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [-116.5, -90, 0],
+			"translation": [1.13, 3.2, 4.38],
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-116.5, -90, 0],
+			"translation": [1.13, 3.2, 4.38],
+			"scale": [0, 0, 0]
+		},
+		"ground": {
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"scale": [2, 2, 1]
+		},
+		"fixed": {
+			"scale": [2, 2, 1]
+		}
+	}
+}
