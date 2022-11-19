@@ -82,5 +82,12 @@
           "name": "bgm/deathbyglamour"
         }
       ]
+    },
+    "c2_freedomdive": {
+      "sounds":[
+        {
+          "name": "bgm/freedom_dive"
+        }
+      ]
     }
   }
