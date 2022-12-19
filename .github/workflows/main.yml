@@ -1,4 +1,4 @@
-name: Create Archive
+name: 自動リリース
 on:
   push:
     branches:
