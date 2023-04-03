@@ -89,5 +89,12 @@
           "name": "bgm/freedom_dive"
         }
       ]
+    },
+    "c2_unwelcomeschool": {
+      "sounds":[
+        {
+          "name": "bgm/unwelcomeschool"
+        }
+      ]
     }
   }
