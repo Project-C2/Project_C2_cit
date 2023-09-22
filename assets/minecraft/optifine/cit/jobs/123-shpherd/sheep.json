@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 32],
 	"textures": {
-		"0": "entity/sheep/sheep",
-		"1": "entity/sheep/sheep_fur",
-		"particle": "entity/sheep/sheep"
+		"0": "./sheep",
+		"1": "./sheep_fur",
+		"particle": "./sheep"
 	},
 	"elements": [
 		{
